@@ -1,2 +1,3 @@
 # Embedded_Projects
-My own development and learning of using microcontrollers 
+I'm using this project to showcase my development of learning and understanding of how to use different microcontrollers
+First arduino.
