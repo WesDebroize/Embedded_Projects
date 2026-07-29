@@ -9,8 +9,9 @@
   output of the potentiometer I have a 330 ohm resistor and
   an LED so I can visually see what happens when I turn the dial.
   
-  For reference, lets say R1 is the left resistor before the output
-  and R2 is the right resistor after the output.
+  For reference, lets say R1 is the left resistor (the side connected 
+  to the power suuply) before the output and R2 is the right resistor 
+  (the side connected to ground) after the output.
   When the dial is fully turned to the right:
   R1 = 10k ohms 
   R2 = 0 ohms
