@@ -68,3 +68,12 @@ void loop() {
   both buttons at the same time for the LED to turn on (like an
   AND gate)
 */
+/*
+  What i've noticed from my circuit is that when i press the button
+  with the pull-down resistor, the LED turns on almost instantly,
+  whereas with the pull-up resistor the LED has a slight delay to
+  it. I prefer the pull-down resistor for not only this reason
+  but it makes a lot more sense for the button not being pushed
+  to equal 0 (off) and for the button being pushed to equal 1 (on) - 
+  since thats how they are represented inside code.
+*/
